@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'AvenirNextLTPro-Bold', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: local('AvenirNextLTPro-Bold'),
+         url('../fonts/AvenirNextLTPro-Bold.woff2'), format('woff2'),
+         url('../fonts/AvenirNextLTPro-Bold.woff'), format('woff');
+}
+@font-face {
+    font-family: 'AvenirNextLTPro-Demi', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: local('AvenirNextLTPro-Demi'),
+         url('../fonts/AvenirNextLTPro-Demi.woff2'), format('woff2'),
+         url('../fonts/AvenirNextLTPro-Demi.woff'), format('woff');
+}
+@font-face {
+    font-family: 'AvenirNextLTPro-Medium', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: local('AvenirNextLTPro-Medium'),
+         url('../fonts/AvenirNextLTPro-Medium.woff2'), format('woff2'),
+         url('../fonts/AvenirNextLTPro-Medium.woff'), format('woff');
+}
+@font-face {
+    font-family: 'AvenirNextLTPro-Regular', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: local('AvenirNextLTPro-Regular'),
+         url('../AvenirNextLTPro-Regular-Bold.woff2'), format('woff2'),
+         url('../AvenirNextLTPro-Regular-Bold.woff'), format('woff');
+}
+
+@font-face {
+    font-family: 'MonumentExtended-Ultrabold', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    src: local('MonumentExtended-Ultrabold'),
+         url('../MonumentExtended-Ultrabold.woff2'), format('woff2'),
+         url('../MonumentExtended-Ultrabold.woff'), format('woff');
+}
